@@ -1,13 +1,14 @@
 ## Play Fit - (Court Booking)
-https://shubhamd99.github.io/react-hotel-booking-app/
+Note : App is Hosted at AWS for Security purpose We are not sharing url here.
 
-Hotel Booking App build with React JS with Context for state management and typescript for static type checking
-
+Play Fit App build with React JS with Context for state management and typescript for static type checking 
+Backend : Mongo DB with Express and Node and JWT 
+Home Page:
 ![alt_img](https://i.imgur.com/fXzhyWV.png)
-
-![alt_img](https://i.imgur.com/U3ccqc6.png)
-
-![alt_img](https://i.imgur.com/RjO5oZl.png)
-
-![alt_img](https://i.imgur.com/xA2sIX7.png)
+Available Courts :
+![alt_img](https://i.imgur.com/bzsh4Bv.png)
+Selected Court :
+![alt_img](https://i.imgur.com/ZnSuFmP.png)
+Booking Screen :
+![alt_img](https://i.imgur.com/oTvKGBC.png)
 
